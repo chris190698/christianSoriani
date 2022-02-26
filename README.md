@@ -2,7 +2,7 @@
 
 ## Welcome on my profile! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chris190698.visitor-badge) 
+
 [![Repos Badge](https://badges.pufler.dev/repos/chris190698)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/chris190698)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/chris190698)](https://badges.pufler.dev)
