@@ -59,7 +59,7 @@ Feel free to reach out to say hi:
 
 
 
-<!--
+
 **chris190698/christianSoriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
