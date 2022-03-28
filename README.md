@@ -55,7 +55,6 @@ Feel free to reach out to say hi:
 
 - [![Gmail Badge](https://img.shields.io/badge/-christiansoriani98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:christiansoriani98@gmail.com "Connect via Email")
 - [![Telegram Badge](https://img.shields.io/badge/-@christianSoriani-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/cchristianSoriani "Contact on Telegram")
-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/3495200507?text=Hi!)
 
 
 
